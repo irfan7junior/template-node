@@ -1,7 +1,7 @@
 {
-  "name": "@irfan7junior/init-pyforme",
+  "name": "@irfan7junior/project-name",
   "version": "1.0.0",
-  "description": "initialize python directory for me",
+  "description": "description of the project",
   "main": "dist/index.js",
   "bin": "dist/index.js",
   "types": "dist/index.d.ts",
